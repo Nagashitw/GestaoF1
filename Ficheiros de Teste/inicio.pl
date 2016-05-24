@@ -1,0 +1,1 @@
+inicio:-consult('funcoes.pl'),consult('resultados.pl').

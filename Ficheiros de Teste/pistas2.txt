@@ -1,0 +1,11 @@
+pistas(1,'Albert Park','Australia',descricao(58,5303),[historico('Damon Hill',1996)]).
+pistas(2,'Sepang International Circuit','Malasia',descricao(56,5543),[historico('Eddie Irvine',1999)]).
+pistas(3,'Shanghai International Circuit','China',descricao(56,5451),[historico('Rubens Barrichello',2004)]).
+pistas(4,'Bahrein International Circuit','Bahrein',descricao(57,5412),[historico('Michael Schumacher',2004)]).
+pistas(5,'Circuito da Catalunha','Espanha',descricao(66,4655),[historico('Nigel Mansell',1991)]).
+pistas(6,'Circuito de Monte Carlo','Monaco',descricao(78,3340),[historico('Ayrton Senna',1991)]).
+pistas(7,'Circuito Gilles Villeneuve','Canada',descricao(70,4361),[historico('Nelson Piquet',1991)]).
+pistas(8,'Red Bull Ring','Austria',descricao(69,4326),[historico('Nelson Piquet',1991)]).
+pistas(9,'Circuito de Silverstone','Reino Unido',descricao(52,5891),[historico('Nigel Mansell',1991)]).
+pistas(99,'RafaPista','Portugal',descricao(50,5460),[]).
+pistas(89,1,1,descricao(2,4),[]).

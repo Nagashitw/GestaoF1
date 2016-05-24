@@ -1,0 +1,1 @@
+as funçes que estavam no funçoes.pl ja estao metidas no trabalho.pl
